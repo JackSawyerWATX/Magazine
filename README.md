@@ -29,5 +29,5 @@ To view the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/magazine-project.git
+   git clone https://github.com/JackSawyerWATX/Magazine.git
    cd magazine-project
